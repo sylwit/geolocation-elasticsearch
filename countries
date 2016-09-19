@@ -1,0 +1,496 @@
+{"index":{"_index":"countries","_type":"country","_id":"AFG"}}
+{"name":"Afghanistan","location":[65,33]}
+{"index":{"_index":"countries","_type":"country","_id":"ALA"}}
+{"name":"Åland Islands","location":[19.9,60.116667]}
+{"index":{"_index":"countries","_type":"country","_id":"ALB"}}
+{"name":"Albania","location":[20,41]}
+{"index":{"_index":"countries","_type":"country","_id":"DZA"}}
+{"name":"Algeria","location":[3,28]}
+{"index":{"_index":"countries","_type":"country","_id":"ASM"}}
+{"name":"American Samoa","location":[-170,-14.33333333]}
+{"index":{"_index":"countries","_type":"country","_id":"AND"}}
+{"name":"Andorra","location":[1.5,42.5]}
+{"index":{"_index":"countries","_type":"country","_id":"AGO"}}
+{"name":"Angola","location":[18.5,-12.5]}
+{"index":{"_index":"countries","_type":"country","_id":"AIA"}}
+{"name":"Anguilla","location":[-63.16666666,18.25]}
+{"index":{"_index":"countries","_type":"country","_id":"ATG"}}
+{"name":"Antigua and Barbuda","location":[-61.8,17.05]}
+{"index":{"_index":"countries","_type":"country","_id":"ARG"}}
+{"name":"Argentina","location":[-64,-34]}
+{"index":{"_index":"countries","_type":"country","_id":"ARM"}}
+{"name":"Armenia","location":[45,40]}
+{"index":{"_index":"countries","_type":"country","_id":"ABW"}}
+{"name":"Aruba","location":[-69.96666666,12.5]}
+{"index":{"_index":"countries","_type":"country","_id":"AUS"}}
+{"name":"Australia","location":[133,-27]}
+{"index":{"_index":"countries","_type":"country","_id":"AUT"}}
+{"name":"Austria","location":[13.33333333,47.33333333]}
+{"index":{"_index":"countries","_type":"country","_id":"AZE"}}
+{"name":"Azerbaijan","location":[47.5,40.5]}
+{"index":{"_index":"countries","_type":"country","_id":"BHS"}}
+{"name":"The Bahamas","location":[-76,24.25]}
+{"index":{"_index":"countries","_type":"country","_id":"BHR"}}
+{"name":"Bahrain","location":[50.55,26]}
+{"index":{"_index":"countries","_type":"country","_id":"BGD"}}
+{"name":"Bangladesh","location":[90,24]}
+{"index":{"_index":"countries","_type":"country","_id":"BRB"}}
+{"name":"Barbados","location":[-59.53333333,13.16666666]}
+{"index":{"_index":"countries","_type":"country","_id":"BLR"}}
+{"name":"Belarus","location":[28,53]}
+{"index":{"_index":"countries","_type":"country","_id":"BEL"}}
+{"name":"Belgium","location":[4,50.83333333]}
+{"index":{"_index":"countries","_type":"country","_id":"BLZ"}}
+{"name":"Belize","location":[-88.75,17.25]}
+{"index":{"_index":"countries","_type":"country","_id":"BEN"}}
+{"name":"Benin","location":[2.25,9.5]}
+{"index":{"_index":"countries","_type":"country","_id":"BMU"}}
+{"name":"Bermuda","location":[-64.75,32.33333333]}
+{"index":{"_index":"countries","_type":"country","_id":"BTN"}}
+{"name":"Bhutan","location":[90.5,27.5]}
+{"index":{"_index":"countries","_type":"country","_id":"BOL"}}
+{"name":"Bolivia","location":[-65,-17]}
+{"index":{"_index":"countries","_type":"country","_id":"BES"}}
+{"name":"Bonaire","location":[-68.266667,12.15]}
+{"index":{"_index":"countries","_type":"country","_id":"BIH"}}
+{"name":"Bosnia and Herzegovina","location":[18,44]}
+{"index":{"_index":"countries","_type":"country","_id":"BWA"}}
+{"name":"Botswana","location":[24,-22]}
+{"index":{"_index":"countries","_type":"country","_id":"BVT"}}
+{"name":"Bouvet Island","location":[3.4,-54.43333333]}
+{"index":{"_index":"countries","_type":"country","_id":"BRA"}}
+{"name":"Brazil","location":[-55,-10]}
+{"index":{"_index":"countries","_type":"country","_id":"IOT"}}
+{"name":"British Indian Ocean Territory","location":[71.5,-6]}
+{"index":{"_index":"countries","_type":"country","_id":"UMI"}}
+{"name":"United States Minor Outlying Islands","location":[null,null]}
+{"index":{"_index":"countries","_type":"country","_id":"VGB"}}
+{"name":"British Virgin Islands","location":[-64.62305,18.431383]}
+{"index":{"_index":"countries","_type":"country","_id":"BRN"}}
+{"name":"Brunei","location":[114.66666666,4.5]}
+{"index":{"_index":"countries","_type":"country","_id":"BGR"}}
+{"name":"Bulgaria","location":[25,43]}
+{"index":{"_index":"countries","_type":"country","_id":"BFA"}}
+{"name":"Burkina Faso","location":[-2,13]}
+{"index":{"_index":"countries","_type":"country","_id":"BDI"}}
+{"name":"Burundi","location":[30,-3.5]}
+{"index":{"_index":"countries","_type":"country","_id":"KHM"}}
+{"name":"Cambodia","location":[105,13]}
+{"index":{"_index":"countries","_type":"country","_id":"CMR"}}
+{"name":"Cameroon","location":[12,6]}
+{"index":{"_index":"countries","_type":"country","_id":"CAN"}}
+{"name":"Canada","location":[-95,60]}
+{"index":{"_index":"countries","_type":"country","_id":"CPV"}}
+{"name":"Cape Verde","location":[-24,16]}
+{"index":{"_index":"countries","_type":"country","_id":"CYM"}}
+{"name":"Cayman Islands","location":[-80.5,19.5]}
+{"index":{"_index":"countries","_type":"country","_id":"CAF"}}
+{"name":"Central African Republic","location":[21,7]}
+{"index":{"_index":"countries","_type":"country","_id":"TCD"}}
+{"name":"Chad","location":[19,15]}
+{"index":{"_index":"countries","_type":"country","_id":"CHL"}}
+{"name":"Chile","location":[-71,-30]}
+{"index":{"_index":"countries","_type":"country","_id":"CHN"}}
+{"name":"China","location":[105,35]}
+{"index":{"_index":"countries","_type":"country","_id":"CXR"}}
+{"name":"Christmas Island","location":[105.66666666,-10.5]}
+{"index":{"_index":"countries","_type":"country","_id":"CCK"}}
+{"name":"Cocos (Keeling) Islands","location":[96.83333333,-12.5]}
+{"index":{"_index":"countries","_type":"country","_id":"COL"}}
+{"name":"Colombia","location":[-72,4]}
+{"index":{"_index":"countries","_type":"country","_id":"COM"}}
+{"name":"Comoros","location":[44.25,-12.16666666]}
+{"index":{"_index":"countries","_type":"country","_id":"COG"}}
+{"name":"Republic of the Congo","location":[15,-1]}
+{"index":{"_index":"countries","_type":"country","_id":"COD"}}
+{"name":"Democratic Republic of the Congo","location":[25,0]}
+{"index":{"_index":"countries","_type":"country","_id":"COK"}}
+{"name":"Cook Islands","location":[-159.76666666,-21.23333333]}
+{"index":{"_index":"countries","_type":"country","_id":"CRI"}}
+{"name":"Costa Rica","location":[-84,10]}
+{"index":{"_index":"countries","_type":"country","_id":"HRV"}}
+{"name":"Croatia","location":[15.5,45.16666666]}
+{"index":{"_index":"countries","_type":"country","_id":"CUB"}}
+{"name":"Cuba","location":[-80,21.5]}
+{"index":{"_index":"countries","_type":"country","_id":"CUW"}}
+{"name":"Curaçao","location":[-68.933333,12.116667]}
+{"index":{"_index":"countries","_type":"country","_id":"CYP"}}
+{"name":"Cyprus","location":[33,35]}
+{"index":{"_index":"countries","_type":"country","_id":"CZE"}}
+{"name":"Czech Republic","location":[15.5,49.75]}
+{"index":{"_index":"countries","_type":"country","_id":"DNK"}}
+{"name":"Denmark","location":[10,56]}
+{"index":{"_index":"countries","_type":"country","_id":"DJI"}}
+{"name":"Djibouti","location":[43,11.5]}
+{"index":{"_index":"countries","_type":"country","_id":"DMA"}}
+{"name":"Dominica","location":[-61.33333333,15.41666666]}
+{"index":{"_index":"countries","_type":"country","_id":"DOM"}}
+{"name":"Dominican Republic","location":[-70.66666666,19]}
+{"index":{"_index":"countries","_type":"country","_id":"ECU"}}
+{"name":"Ecuador","location":[-77.5,-2]}
+{"index":{"_index":"countries","_type":"country","_id":"EGY"}}
+{"name":"Egypt","location":[30,27]}
+{"index":{"_index":"countries","_type":"country","_id":"SLV"}}
+{"name":"El Salvador","location":[-88.91666666,13.83333333]}
+{"index":{"_index":"countries","_type":"country","_id":"GNQ"}}
+{"name":"Equatorial Guinea","location":[10,2]}
+{"index":{"_index":"countries","_type":"country","_id":"ERI"}}
+{"name":"Eritrea","location":[39,15]}
+{"index":{"_index":"countries","_type":"country","_id":"EST"}}
+{"name":"Estonia","location":[26,59]}
+{"index":{"_index":"countries","_type":"country","_id":"ETH"}}
+{"name":"Ethiopia","location":[38,8]}
+{"index":{"_index":"countries","_type":"country","_id":"FLK"}}
+{"name":"Falkland Islands","location":[-59,-51.75]}
+{"index":{"_index":"countries","_type":"country","_id":"FRO"}}
+{"name":"Faroe Islands","location":[-7,62]}
+{"index":{"_index":"countries","_type":"country","_id":"FJI"}}
+{"name":"Fiji","location":[175,-18]}
+{"index":{"_index":"countries","_type":"country","_id":"FIN"}}
+{"name":"Finland","location":[26,64]}
+{"index":{"_index":"countries","_type":"country","_id":"FRA"}}
+{"name":"France","location":[2,46]}
+{"index":{"_index":"countries","_type":"country","_id":"GUF"}}
+{"name":"French Guiana","location":[-53,4]}
+{"index":{"_index":"countries","_type":"country","_id":"PYF"}}
+{"name":"French Polynesia","location":[-140,-15]}
+{"index":{"_index":"countries","_type":"country","_id":"ATF"}}
+{"name":"French Southern and Antarctic Lands","location":[69.167,-49.25]}
+{"index":{"_index":"countries","_type":"country","_id":"GAB"}}
+{"name":"Gabon","location":[11.75,-1]}
+{"index":{"_index":"countries","_type":"country","_id":"GMB"}}
+{"name":"The Gambia","location":[-16.56666666,13.46666666]}
+{"index":{"_index":"countries","_type":"country","_id":"GEO"}}
+{"name":"Georgia","location":[43.5,42]}
+{"index":{"_index":"countries","_type":"country","_id":"DEU"}}
+{"name":"Germany","location":[9,51]}
+{"index":{"_index":"countries","_type":"country","_id":"GHA"}}
+{"name":"Ghana","location":[-2,8]}
+{"index":{"_index":"countries","_type":"country","_id":"GIB"}}
+{"name":"Gibraltar","location":[-5.35,36.13333333]}
+{"index":{"_index":"countries","_type":"country","_id":"GRC"}}
+{"name":"Greece","location":[22,39]}
+{"index":{"_index":"countries","_type":"country","_id":"GRL"}}
+{"name":"Greenland","location":[-40,72]}
+{"index":{"_index":"countries","_type":"country","_id":"GRD"}}
+{"name":"Grenada","location":[-61.66666666,12.11666666]}
+{"index":{"_index":"countries","_type":"country","_id":"GLP"}}
+{"name":"Guadeloupe","location":[-61.583333,16.25]}
+{"index":{"_index":"countries","_type":"country","_id":"GUM"}}
+{"name":"Guam","location":[144.78333333,13.46666666]}
+{"index":{"_index":"countries","_type":"country","_id":"GTM"}}
+{"name":"Guatemala","location":[-90.25,15.5]}
+{"index":{"_index":"countries","_type":"country","_id":"GGY"}}
+{"name":"Guernsey","location":[-2.58333333,49.46666666]}
+{"index":{"_index":"countries","_type":"country","_id":"GIN"}}
+{"name":"Guinea","location":[-10,11]}
+{"index":{"_index":"countries","_type":"country","_id":"GNB"}}
+{"name":"Guinea-Bissau","location":[-15,12]}
+{"index":{"_index":"countries","_type":"country","_id":"GUY"}}
+{"name":"Guyana","location":[-59,5]}
+{"index":{"_index":"countries","_type":"country","_id":"HTI"}}
+{"name":"Haiti","location":[-72.41666666,19]}
+{"index":{"_index":"countries","_type":"country","_id":"HMD"}}
+{"name":"Heard Island and McDonald Islands","location":[72.51666666,-53.1]}
+{"index":{"_index":"countries","_type":"country","_id":"VAT"}}
+{"name":"Holy See","location":[12.45,41.9]}
+{"index":{"_index":"countries","_type":"country","_id":"HND"}}
+{"name":"Honduras","location":[-86.5,15]}
+{"index":{"_index":"countries","_type":"country","_id":"HKG"}}
+{"name":"Hong Kong","location":[114.16666666,22.25]}
+{"index":{"_index":"countries","_type":"country","_id":"HUN"}}
+{"name":"Hungary","location":[20,47]}
+{"index":{"_index":"countries","_type":"country","_id":"ISL"}}
+{"name":"Iceland","location":[-18,65]}
+{"index":{"_index":"countries","_type":"country","_id":"IND"}}
+{"name":"India","location":[77,20]}
+{"index":{"_index":"countries","_type":"country","_id":"IDN"}}
+{"name":"Indonesia","location":[120,-5]}
+{"index":{"_index":"countries","_type":"country","_id":"CIV"}}
+{"name":"Ivory Coast","location":[-5,8]}
+{"index":{"_index":"countries","_type":"country","_id":"IRN"}}
+{"name":"Iran","location":[53,32]}
+{"index":{"_index":"countries","_type":"country","_id":"IRQ"}}
+{"name":"Iraq","location":[44,33]}
+{"index":{"_index":"countries","_type":"country","_id":"IRL"}}
+{"name":"Republic of Ireland","location":[-8,53]}
+{"index":{"_index":"countries","_type":"country","_id":"IMN"}}
+{"name":"Isle of Man","location":[-4.5,54.25]}
+{"index":{"_index":"countries","_type":"country","_id":"ISR"}}
+{"name":"Israel","location":[34.75,31.5]}
+{"index":{"_index":"countries","_type":"country","_id":"ITA"}}
+{"name":"Italy","location":[12.83333333,42.83333333]}
+{"index":{"_index":"countries","_type":"country","_id":"JAM"}}
+{"name":"Jamaica","location":[-77.5,18.25]}
+{"index":{"_index":"countries","_type":"country","_id":"JPN"}}
+{"name":"Japan","location":[138,36]}
+{"index":{"_index":"countries","_type":"country","_id":"JEY"}}
+{"name":"Jersey","location":[-2.16666666,49.25]}
+{"index":{"_index":"countries","_type":"country","_id":"JOR"}}
+{"name":"Jordan","location":[36,31]}
+{"index":{"_index":"countries","_type":"country","_id":"KAZ"}}
+{"name":"Kazakhstan","location":[68,48]}
+{"index":{"_index":"countries","_type":"country","_id":"KEN"}}
+{"name":"Kenya","location":[38,1]}
+{"index":{"_index":"countries","_type":"country","_id":"KIR"}}
+{"name":"Kiribati","location":[173,1.41666666]}
+{"index":{"_index":"countries","_type":"country","_id":"KWT"}}
+{"name":"Kuwait","location":[45.75,29.5]}
+{"index":{"_index":"countries","_type":"country","_id":"KGZ"}}
+{"name":"Kyrgyzstan","location":[75,41]}
+{"index":{"_index":"countries","_type":"country","_id":"LAO"}}
+{"name":"Laos","location":[105,18]}
+{"index":{"_index":"countries","_type":"country","_id":"LVA"}}
+{"name":"Latvia","location":[25,57]}
+{"index":{"_index":"countries","_type":"country","_id":"LBN"}}
+{"name":"Lebanon","location":[35.83333333,33.83333333]}
+{"index":{"_index":"countries","_type":"country","_id":"LSO"}}
+{"name":"Lesotho","location":[28.5,-29.5]}
+{"index":{"_index":"countries","_type":"country","_id":"LBR"}}
+{"name":"Liberia","location":[-9.5,6.5]}
+{"index":{"_index":"countries","_type":"country","_id":"LBY"}}
+{"name":"Libya","location":[17,25]}
+{"index":{"_index":"countries","_type":"country","_id":"LIE"}}
+{"name":"Liechtenstein","location":[9.53333333,47.26666666]}
+{"index":{"_index":"countries","_type":"country","_id":"LTU"}}
+{"name":"Lithuania","location":[24,56]}
+{"index":{"_index":"countries","_type":"country","_id":"LUX"}}
+{"name":"Luxembourg","location":[6.16666666,49.75]}
+{"index":{"_index":"countries","_type":"country","_id":"MAC"}}
+{"name":"Macau","location":[113.55,22.16666666]}
+{"index":{"_index":"countries","_type":"country","_id":"MKD"}}
+{"name":"Republic of Macedonia","location":[22,41.83333333]}
+{"index":{"_index":"countries","_type":"country","_id":"MDG"}}
+{"name":"Madagascar","location":[47,-20]}
+{"index":{"_index":"countries","_type":"country","_id":"MWI"}}
+{"name":"Malawi","location":[34,-13.5]}
+{"index":{"_index":"countries","_type":"country","_id":"MYS"}}
+{"name":"Malaysia","location":[112.5,2.5]}
+{"index":{"_index":"countries","_type":"country","_id":"MDV"}}
+{"name":"Maldives","location":[73,3.25]}
+{"index":{"_index":"countries","_type":"country","_id":"MLI"}}
+{"name":"Mali","location":[-4,17]}
+{"index":{"_index":"countries","_type":"country","_id":"MLT"}}
+{"name":"Malta","location":[14.58333333,35.83333333]}
+{"index":{"_index":"countries","_type":"country","_id":"MHL"}}
+{"name":"Marshall Islands","location":[168,9]}
+{"index":{"_index":"countries","_type":"country","_id":"MTQ"}}
+{"name":"Martinique","location":[-61,14.666667]}
+{"index":{"_index":"countries","_type":"country","_id":"MRT"}}
+{"name":"Mauritania","location":[-12,20]}
+{"index":{"_index":"countries","_type":"country","_id":"MUS"}}
+{"name":"Mauritius","location":[57.55,-20.28333333]}
+{"index":{"_index":"countries","_type":"country","_id":"MYT"}}
+{"name":"Mayotte","location":[45.16666666,-12.83333333]}
+{"index":{"_index":"countries","_type":"country","_id":"MEX"}}
+{"name":"Mexico","location":[-102,23]}
+{"index":{"_index":"countries","_type":"country","_id":"FSM"}}
+{"name":"Federated States of Micronesia","location":[158.25,6.91666666]}
+{"index":{"_index":"countries","_type":"country","_id":"MDA"}}
+{"name":"Moldova","location":[29,47]}
+{"index":{"_index":"countries","_type":"country","_id":"MCO"}}
+{"name":"Monaco","location":[7.4,43.73333333]}
+{"index":{"_index":"countries","_type":"country","_id":"MNG"}}
+{"name":"Mongolia","location":[105,46]}
+{"index":{"_index":"countries","_type":"country","_id":"MNE"}}
+{"name":"Montenegro","location":[19.3,42.5]}
+{"index":{"_index":"countries","_type":"country","_id":"MSR"}}
+{"name":"Montserrat","location":[-62.2,16.75]}
+{"index":{"_index":"countries","_type":"country","_id":"MAR"}}
+{"name":"Morocco","location":[-5,32]}
+{"index":{"_index":"countries","_type":"country","_id":"MOZ"}}
+{"name":"Mozambique","location":[35,-18.25]}
+{"index":{"_index":"countries","_type":"country","_id":"MMR"}}
+{"name":"Myanmar","location":[98,22]}
+{"index":{"_index":"countries","_type":"country","_id":"NAM"}}
+{"name":"Namibia","location":[17,-22]}
+{"index":{"_index":"countries","_type":"country","_id":"NRU"}}
+{"name":"Nauru","location":[166.91666666,-0.53333333]}
+{"index":{"_index":"countries","_type":"country","_id":"NPL"}}
+{"name":"Nepal","location":[84,28]}
+{"index":{"_index":"countries","_type":"country","_id":"NLD"}}
+{"name":"Netherlands","location":[5.75,52.5]}
+{"index":{"_index":"countries","_type":"country","_id":"NCL"}}
+{"name":"New Caledonia","location":[165.5,-21.5]}
+{"index":{"_index":"countries","_type":"country","_id":"NZL"}}
+{"name":"New Zealand","location":[174,-41]}
+{"index":{"_index":"countries","_type":"country","_id":"NIC"}}
+{"name":"Nicaragua","location":[-85,13]}
+{"index":{"_index":"countries","_type":"country","_id":"NER"}}
+{"name":"Niger","location":[8,16]}
+{"index":{"_index":"countries","_type":"country","_id":"NGA"}}
+{"name":"Nigeria","location":[8,10]}
+{"index":{"_index":"countries","_type":"country","_id":"NIU"}}
+{"name":"Niue","location":[-169.86666666,-19.03333333]}
+{"index":{"_index":"countries","_type":"country","_id":"NFK"}}
+{"name":"Norfolk Island","location":[167.95,-29.03333333]}
+{"index":{"_index":"countries","_type":"country","_id":"PRK"}}
+{"name":"North Korea","location":[127,40]}
+{"index":{"_index":"countries","_type":"country","_id":"MNP"}}
+{"name":"Northern Mariana Islands","location":[145.75,15.2]}
+{"index":{"_index":"countries","_type":"country","_id":"NOR"}}
+{"name":"Norway","location":[10,62]}
+{"index":{"_index":"countries","_type":"country","_id":"OMN"}}
+{"name":"Oman","location":[57,21]}
+{"index":{"_index":"countries","_type":"country","_id":"PAK"}}
+{"name":"Pakistan","location":[70,30]}
+{"index":{"_index":"countries","_type":"country","_id":"PLW"}}
+{"name":"Palau","location":[134.5,7.5]}
+{"index":{"_index":"countries","_type":"country","_id":"PSE"}}
+{"name":"Palestine","location":[35.2,31.9]}
+{"index":{"_index":"countries","_type":"country","_id":"PAN"}}
+{"name":"Panama","location":[-80,9]}
+{"index":{"_index":"countries","_type":"country","_id":"PNG"}}
+{"name":"Papua New Guinea","location":[147,-6]}
+{"index":{"_index":"countries","_type":"country","_id":"PRY"}}
+{"name":"Paraguay","location":[-58,-23]}
+{"index":{"_index":"countries","_type":"country","_id":"PER"}}
+{"name":"Peru","location":[-76,-10]}
+{"index":{"_index":"countries","_type":"country","_id":"PHL"}}
+{"name":"Philippines","location":[122,13]}
+{"index":{"_index":"countries","_type":"country","_id":"PCN"}}
+{"name":"Pitcairn Islands","location":[-130.1,-25.06666666]}
+{"index":{"_index":"countries","_type":"country","_id":"POL"}}
+{"name":"Poland","location":[20,52]}
+{"index":{"_index":"countries","_type":"country","_id":"PRT"}}
+{"name":"Portugal","location":[-8,39.5]}
+{"index":{"_index":"countries","_type":"country","_id":"PRI"}}
+{"name":"Puerto Rico","location":[-66.5,18.25]}
+{"index":{"_index":"countries","_type":"country","_id":"QAT"}}
+{"name":"Qatar","location":[51.25,25.5]}
+{"index":{"_index":"countries","_type":"country","_id":"KOS"}}
+{"name":"Republic of Kosovo","location":[21.166667,42.666667]}
+{"index":{"_index":"countries","_type":"country","_id":"REU"}}
+{"name":"Réunion","location":[55.5,-21.15]}
+{"index":{"_index":"countries","_type":"country","_id":"ROU"}}
+{"name":"Romania","location":[25,46]}
+{"index":{"_index":"countries","_type":"country","_id":"RUS"}}
+{"name":"Russia","location":[100,60]}
+{"index":{"_index":"countries","_type":"country","_id":"RWA"}}
+{"name":"Rwanda","location":[30,-2]}
+{"index":{"_index":"countries","_type":"country","_id":"BLM"}}
+{"name":"Saint Barthélemy","location":[-63.41666666,18.5]}
+{"index":{"_index":"countries","_type":"country","_id":"SHN"}}
+{"name":"Saint Helena","location":[-5.7,-15.95]}
+{"index":{"_index":"countries","_type":"country","_id":"KNA"}}
+{"name":"Saint Kitts and Nevis","location":[-62.75,17.33333333]}
+{"index":{"_index":"countries","_type":"country","_id":"LCA"}}
+{"name":"Saint Lucia","location":[-60.96666666,13.88333333]}
+{"index":{"_index":"countries","_type":"country","_id":"MAF"}}
+{"name":"Saint Martin","location":[-63.95,18.08333333]}
+{"index":{"_index":"countries","_type":"country","_id":"SPM"}}
+{"name":"Saint Pierre and Miquelon","location":[-56.33333333,46.83333333]}
+{"index":{"_index":"countries","_type":"country","_id":"VCT"}}
+{"name":"Saint Vincent and the Grenadines","location":[-61.2,13.25]}
+{"index":{"_index":"countries","_type":"country","_id":"WSM"}}
+{"name":"Samoa","location":[-172.33333333,-13.58333333]}
+{"index":{"_index":"countries","_type":"country","_id":"SMR"}}
+{"name":"San Marino","location":[12.41666666,43.76666666]}
+{"index":{"_index":"countries","_type":"country","_id":"STP"}}
+{"name":"São Tomé and Príncipe","location":[7,1]}
+{"index":{"_index":"countries","_type":"country","_id":"SAU"}}
+{"name":"Saudi Arabia","location":[45,25]}
+{"index":{"_index":"countries","_type":"country","_id":"SEN"}}
+{"name":"Senegal","location":[-14,14]}
+{"index":{"_index":"countries","_type":"country","_id":"SRB"}}
+{"name":"Serbia","location":[21,44]}
+{"index":{"_index":"countries","_type":"country","_id":"SYC"}}
+{"name":"Seychelles","location":[55.66666666,-4.58333333]}
+{"index":{"_index":"countries","_type":"country","_id":"SLE"}}
+{"name":"Sierra Leone","location":[-11.5,8.5]}
+{"index":{"_index":"countries","_type":"country","_id":"SGP"}}
+{"name":"Singapore","location":[103.8,1.36666666]}
+{"index":{"_index":"countries","_type":"country","_id":"SXM"}}
+{"name":"Sint Maarten","location":[-63.05,18.033333]}
+{"index":{"_index":"countries","_type":"country","_id":"SVK"}}
+{"name":"Slovakia","location":[19.5,48.66666666]}
+{"index":{"_index":"countries","_type":"country","_id":"SVN"}}
+{"name":"Slovenia","location":[14.81666666,46.11666666]}
+{"index":{"_index":"countries","_type":"country","_id":"SLB"}}
+{"name":"Solomon Islands","location":[159,-8]}
+{"index":{"_index":"countries","_type":"country","_id":"SOM"}}
+{"name":"Somalia","location":[49,10]}
+{"index":{"_index":"countries","_type":"country","_id":"ZAF"}}
+{"name":"South Africa","location":[24,-29]}
+{"index":{"_index":"countries","_type":"country","_id":"SGS"}}
+{"name":"South Georgia","location":[-37,-54.5]}
+{"index":{"_index":"countries","_type":"country","_id":"KOR"}}
+{"name":"South Korea","location":[127.5,37]}
+{"index":{"_index":"countries","_type":"country","_id":"SSD"}}
+{"name":"South Sudan","location":[30,7]}
+{"index":{"_index":"countries","_type":"country","_id":"ESP"}}
+{"name":"Spain","location":[-4,40]}
+{"index":{"_index":"countries","_type":"country","_id":"LKA"}}
+{"name":"Sri Lanka","location":[81,7]}
+{"index":{"_index":"countries","_type":"country","_id":"SDN"}}
+{"name":"Sudan","location":[30,15]}
+{"index":{"_index":"countries","_type":"country","_id":"SUR"}}
+{"name":"Suriname","location":[-56,4]}
+{"index":{"_index":"countries","_type":"country","_id":"SJM"}}
+{"name":"Svalbard and Jan Mayen","location":[20,78]}
+{"index":{"_index":"countries","_type":"country","_id":"SWZ"}}
+{"name":"Swaziland","location":[31.5,-26.5]}
+{"index":{"_index":"countries","_type":"country","_id":"SWE"}}
+{"name":"Sweden","location":[15,62]}
+{"index":{"_index":"countries","_type":"country","_id":"CHE"}}
+{"name":"Switzerland","location":[8,47]}
+{"index":{"_index":"countries","_type":"country","_id":"SYR"}}
+{"name":"Syria","location":[38,35]}
+{"index":{"_index":"countries","_type":"country","_id":"TWN"}}
+{"name":"Taiwan","location":[121,23.5]}
+{"index":{"_index":"countries","_type":"country","_id":"TJK"}}
+{"name":"Tajikistan","location":[71,39]}
+{"index":{"_index":"countries","_type":"country","_id":"TZA"}}
+{"name":"Tanzania","location":[35,-6]}
+{"index":{"_index":"countries","_type":"country","_id":"THA"}}
+{"name":"Thailand","location":[100,15]}
+{"index":{"_index":"countries","_type":"country","_id":"TLS"}}
+{"name":"East Timor","location":[125.91666666,-8.83333333]}
+{"index":{"_index":"countries","_type":"country","_id":"TGO"}}
+{"name":"Togo","location":[1.16666666,8]}
+{"index":{"_index":"countries","_type":"country","_id":"TKL"}}
+{"name":"Tokelau","location":[-172,-9]}
+{"index":{"_index":"countries","_type":"country","_id":"TON"}}
+{"name":"Tonga","location":[-175,-20]}
+{"index":{"_index":"countries","_type":"country","_id":"TTO"}}
+{"name":"Trinidad and Tobago","location":[-61,11]}
+{"index":{"_index":"countries","_type":"country","_id":"TUN"}}
+{"name":"Tunisia","location":[9,34]}
+{"index":{"_index":"countries","_type":"country","_id":"TUR"}}
+{"name":"Turkey","location":[35,39]}
+{"index":{"_index":"countries","_type":"country","_id":"TKM"}}
+{"name":"Turkmenistan","location":[60,40]}
+{"index":{"_index":"countries","_type":"country","_id":"TCA"}}
+{"name":"Turks and Caicos Islands","location":[-71.58333333,21.75]}
+{"index":{"_index":"countries","_type":"country","_id":"TUV"}}
+{"name":"Tuvalu","location":[178,-8]}
+{"index":{"_index":"countries","_type":"country","_id":"UGA"}}
+{"name":"Uganda","location":[32,1]}
+{"index":{"_index":"countries","_type":"country","_id":"UKR"}}
+{"name":"Ukraine","location":[32,49]}
+{"index":{"_index":"countries","_type":"country","_id":"ARE"}}
+{"name":"United Arab Emirates","location":[54,24]}
+{"index":{"_index":"countries","_type":"country","_id":"GBR"}}
+{"name":"United Kingdom","location":[-2,54]}
+{"index":{"_index":"countries","_type":"country","_id":"USA"}}
+{"name":"United States","location":[-97,38]}
+{"index":{"_index":"countries","_type":"country","_id":"URY"}}
+{"name":"Uruguay","location":[-56,-33]}
+{"index":{"_index":"countries","_type":"country","_id":"UZB"}}
+{"name":"Uzbekistan","location":[64,41]}
+{"index":{"_index":"countries","_type":"country","_id":"VUT"}}
+{"name":"Vanuatu","location":[167,-16]}
+{"index":{"_index":"countries","_type":"country","_id":"VEN"}}
+{"name":"Venezuela","location":[-66,8]}
+{"index":{"_index":"countries","_type":"country","_id":"VNM"}}
+{"name":"Vietnam","location":[107.83333333,16.16666666]}
+{"index":{"_index":"countries","_type":"country","_id":"WLF"}}
+{"name":"Wallis and Futuna","location":[-176.2,-13.3]}
+{"index":{"_index":"countries","_type":"country","_id":"ESH"}}
+{"name":"Western Sahara","location":[-13,24.5]}
+{"index":{"_index":"countries","_type":"country","_id":"YEM"}}
+{"name":"Yemen","location":[48,15]}
+{"index":{"_index":"countries","_type":"country","_id":"ZMB"}}
+{"name":"Zambia","location":[30,-15]}
+{"index":{"_index":"countries","_type":"country","_id":"ZWE"}}
+{"name":"Zimbabwe","location":[30,-20]}
